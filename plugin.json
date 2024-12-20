@@ -1,7 +1,7 @@
 {
   "id": "acode.plugin.asisten",
   "name": "Tarz Asisten",
-  "main": "dist/main.js",
+  "main": "main.js",
   "version": "2.0.7",
   "readme": "readme.md",
   "icon": "icon.png",
